@@ -5,18 +5,19 @@ BookService microservice.
 
 Technology Used:
 
-Spring Boot
-Spring Data JPA
-H2 Database In Memory
-Lombok
-Embedded Tomcat
-Rest controller
-Java 8
-Rest API.
+1) Spring Boot
+2) Spring Data JPA
+3) H2 Database In Memory
+4) Lombok
+5) Embedded Tomcat
+6) Rest controller
+7) Java 8
 
-Retrieve All books
-Update books
-Delete All Books
-Delete book Id
-Retrieve Book by Id
-Checkout books with payable amount.
+
+Rest APIs. 
+1) Retrieve All books
+2) Update books
+3) Delete All Books
+4) Delete book Id
+5) Retrieve Book by Id
+6) Checkout books with payable amount.
